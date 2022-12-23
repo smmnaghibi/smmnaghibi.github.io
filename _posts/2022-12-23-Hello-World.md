@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 author: mahdi
-categories: [ Jekyll, tutorial ]
+image: assets/images/HelloWorld.jpg
 tags: [sticky]
 ---
 
